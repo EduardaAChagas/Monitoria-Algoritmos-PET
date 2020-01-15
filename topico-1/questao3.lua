@@ -15,5 +15,5 @@ print('Insira o numerador')
 valor1=io.read("*numero")
 print('Insira o denominador')
 valor2=io.read("*numero")
-soma=valor1/valor2
-print('A divisão entre os dois numeros é: '..soma)
+quociente=valor1/valor2--divisão
+print('A divisão entre os dois numeros é: '..quociente)

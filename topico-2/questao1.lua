@@ -6,21 +6,24 @@ mensagem, em forma de string, de acordo com o seu resultado:
 - Caso o IMC esteja entre 25 e 30, imprima "Obeso Moderado";
 - Caso o IMC seja maior ou igual a 40, imprima "Obeso Mórbido"
 
-		EXEMPLO:
-entrada: 1.90	56
-
-saída: 15.512	Abaixo do Peso
+EXEMPLO:
+		entrada: 
+1.90
+56
+		saída: 
+15.512	
+Abaixo do Peso
 --]]
 
 print('Insira a altura do paciente: ')
 altura=io.read("*n")
 print('Insira o peso do paciente')
 peso=io.read("*n")
-imc=peso/(altura^2)
+imc=peso/(altura^2)--^2 significa ao quadrado (a²)
 print('IMC: ' ..(string.format('%0.3f',imc)))
 if imc<=18 then
 	print('Abaixo do Peso')
-elseif imc>=18 and imc<=25 then
+elseif imc>=18 and imc<=25 then--os sinais de <> devem sempre vir antes do = para indicar maior ou igual e menor ou igual
 	print('Peso Normal')
 elseif imc>=25 and imc<=30 then
 	print('Obeso Moderado')
