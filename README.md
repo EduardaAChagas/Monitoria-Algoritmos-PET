@@ -4,4 +4,4 @@ Questões feitas para auxiliar os novos estudantes de Ciência da Computação U
 #### Tópico 1: Variáveis e Atribuições de Valores
 * [Tópico 1](./topico-1)
 #### Tópico 2: Condições - IF, ELSEIF e ELSE
- [Tópico 2] (./topico-2)
+ [Tópico 2](./topico-2)
