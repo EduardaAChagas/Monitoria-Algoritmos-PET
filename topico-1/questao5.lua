@@ -1,6 +1,6 @@
 --[[
-Ler quatro números a, b, c e d e exibir a diferença da multiplicação de a com b pela de b
-com c
+Ler quatro números a, b, c e d e exibir a diferença da multiplicação de a com b pela de c
+com d
 EXEMPLO:
 		entrada:
 4 5 3 4
