@@ -1,2 +1,2 @@
 language = "lua"
-run = "echo hello word"
+run = ""
