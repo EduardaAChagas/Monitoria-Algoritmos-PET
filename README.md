@@ -5,3 +5,5 @@ Questões feitas para auxiliar os novos estudantes de Ciência da Computação U
 * [Tópico 1](./topico-1)
 #### Tópico 2: Condições - IF, ELSEIF e ELSE
 * [Tópico 2](./topico-2)
+
+[![Run on Repl.it](https://repl.it/badge/github/EduardaAChagas/Monitoria-Algoritmos-PET)](https://repl.it/github/EduardaAChagas/Monitoria-Algoritmos-PET)
