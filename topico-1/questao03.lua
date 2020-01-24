@@ -1,4 +1,5 @@
 --Questão 2:
+
 --[[
 Faça um programa que leia dois números do usuário e efetue a divisão entre eles
 
