@@ -16,8 +16,8 @@ print((a*b)-(c*d))
 
 
 a=int(input('insira um numero: '))
-print('seu dobro é:',a*a)
-print('seu triplo é:',a*a*a)
+print('seu dobro é:',a*2)
+print('seu triplo é:',a*3)
 
 
 #questao 003
